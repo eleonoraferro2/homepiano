@@ -1,0 +1,49 @@
+body { /*niente di ciò che c'è sull'head viene visualizzato*/
+    background-color: rgba(255, 255, 255, 0.697);
+    }     
+
+#menu {padding: 0.5% 4% 0.5% 4%;
+    }
+
+.migliori {padding-top: 23vh;
+        text-align: left;
+        padding-left: 7%;
+        font-size: 8vh;
+        color: black;
+        text-shadow: 1px 1px 2px #dcdcdcc9;}
+
+.sottotitolo {text-align: center;
+            }
+.testo {text-align: justify;
+       padding: 5%;
+       }
+#curiosita {background-color: rgba(222, 220, 220, 0.193);
+           border: 3px solid rgba(0, 0, 0, 0.83);
+           padding: 2vh;
+           margin: 10%;
+           width: 600vh;
+           border-radius: 40px;
+           }
+p{font-family:'Lora', serif;
+  font-size: 17pt; }
+
+.miniature {margin-left: 3%;
+           width: 390px;
+           height: 320px;}
+
+footer {background-color: #353a40;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.697);
+            padding: 3%;
+        }
+        
+a {color: rgba(255, 255, 255, 0.697);
+        }
+a:hover {color: rgba(255, 255, 255, 0.697);
+              }
+#copy {opacity: 0.5;
+      font-size: 12pt; } 
+          
+          
+              
+
