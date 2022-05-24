@@ -4,7 +4,7 @@ body { /*niente di ciò che c'è sull'head viene visualizzato*/
 
 #menu {padding: 0.5% 4% 0.5% 4%;
       }
-h1 {padding-top: 35vh;
+h1 {padding-top: 25vh;
     text-align: center;
     font-size: 16vh;
     color: rgba(255, 255, 255, 0.888);
