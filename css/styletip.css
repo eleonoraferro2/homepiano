@@ -5,7 +5,7 @@ body { /*niente di ciò che c'è sull'head viene visualizzato*/
 #menu {padding: 0.5% 4% 0.5% 4%;
     }
 
-.migliori {padding-top: 11vh;
+.migliori {padding-top: 23vh;
         text-align: left;
         padding-left: 7%;
         font-size: 8vh;
@@ -17,12 +17,12 @@ body { /*niente di ciò che c'è sull'head viene visualizzato*/
 .testo {text-align: justify;
        padding: 5%;
        }
-#curiosita {background-color: rgba(222, 220, 220, 0.193);
+#curiosita {background-color: rgba(223, 222, 222, 0.235);
            border: 3px solid rgba(0, 0, 0, 0.83);
-           padding: 2vh;
-           margin: 10%;
-           width: 600vh;
-           border-radius: 40px;
+           padding: 1vh;
+           margin: 8%;
+           width: 400vh;
+           border-radius: 20px;
            }
 p{font-family:'Lora', serif;
   font-size: 17pt; }
