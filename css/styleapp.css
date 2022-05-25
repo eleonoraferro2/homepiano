@@ -5,13 +5,13 @@
 
 #menu {padding: 0.5% 4% 0.5% 4%;
     }
-.migliori {padding-top: 23vh;
+#migliori {padding-top: 23vh;
     text-align: left;
     font-size: 8vh;
     color: black;
     text-shadow: 1px 1px 2px #dcdcdcc9;}
 
-.colonna {padding-left: 7%;
+#colonna {padding-left: 7%;
         margin-right: 60%;
         text-align: justify;
 }

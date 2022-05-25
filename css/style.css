@@ -12,7 +12,7 @@ h1 {padding-top: 37vh;
    }
 header {background: url(../img/manieee.jpg) no-repeat;
         background-size: cover;
-        height: 90vh; border-bottom: 2px;
+        height: 90vh; 
        }
 #ultimo {color: rgba(0, 0, 0, 0.76);
          font-size: 4vh; 
@@ -22,15 +22,7 @@ header {background: url(../img/manieee.jpg) no-repeat;
          background-color: rgba(255, 255, 255, 0.697);
          background-size: cover;
          }
-.titolo { padding-top: 7%;
-          text-align: center;
-          font-size: 30pt;
-          color: #353a40;}
-.sottotitolo {text-align: center;
-             }
-.testo {text-align: justify;
-        padding: 5%;
-        }
+
 .start {margin-left: 47%;
         margin-bottom: 8%;
        }
